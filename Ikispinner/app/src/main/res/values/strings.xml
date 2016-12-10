@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ikispinner</string>
+    <string-array name="a">
+        <item>Burdur</item>
+        <item>Isparta</item>
+    </string-array>
+
+    <string-array name="b">
+        <item>Keciborlu</item>
+        <item>Aksu</item>
+    </string-array>
+    <string-array name="c">
+        <item>Bucak</item>
+        <item>Aglasun</item>
+    </string-array>
+</resources>

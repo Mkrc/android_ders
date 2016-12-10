@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Yeni_Ornek</string>
+    <string-array name="Iller">
+        <item>Isparta</item>
+        <item>Burdur</item>
+
+    </string-array>
+
+    <string-array name="ilce_isparta">
+        <item>Aksu</item>
+        <item>Yalvac</item>
+    </string-array>
+
+    <string-array name="ilce_burdur">
+        <item>Bucak</item>
+        <item>Aglasun</item>
+     </string-array>
+
+
+</resources>

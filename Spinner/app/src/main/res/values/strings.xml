@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MuzikCalar</string>
+    <string-array name="dizi">
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+    </string-array>
+</resources>

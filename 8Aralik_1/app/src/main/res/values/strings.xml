@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">8Aralik_1</string>
+    <string-array name="Gunler">
+       <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Carsamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+    </string-array>
+
+    <string-array name="Sehir">
+        <item>İzmir</item>
+        <item>Ankara</item>
+        <item>İstanbul</item>
+    </string-array>
+</resources>
